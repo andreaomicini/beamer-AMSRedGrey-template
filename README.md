@@ -1,5 +1,7 @@
 # beamer-AMSRedGrey-template
 
+![AMSRedGrey Beamer template logo](logo/amsredgrey-template-full.svg)
+
 > A ready-to-use presentation skeleton for the
 > [AMSRedGrey Beamer style](https://github.com/andreaomicini/beamer-AMSRedGrey)
 
