@@ -1,1 +1,1 @@
-Usage template for Beamer style AMSRedGrey
+Template for the "AMSRedGrey" Beamer style
