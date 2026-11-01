@@ -1,4 +1,4 @@
 [submodule ".style"]
 	path = .style
-	url = https://github.com/andreaomicini/beamer-AMSRedGrey.git
+	url = ../beamer-AMSRedGrey.git
 	branch = main
